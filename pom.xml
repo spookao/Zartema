@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <name>Zartema-Super</name>
-    <description>Super project for Zartema.</description>
+    <description>Super project for Zartema</description>
 
     <modules>
         <module>Zartema-Proxy</module>
